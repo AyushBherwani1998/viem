@@ -1,5 +1,11 @@
 # viem
 
+## 3.0.0
+
+### Major Changes
+
+- [`dd53b0ca21930b977997d5d9f78dec69257dea93`](https://github.com/wevm/viem/commit/dd53b0ca21930b977997d5d9f78dec69257dea93) Thanks [@AyushBherwani1998](https://github.com/AyushBherwani1998)! - Update ERC-7715 API implementation to follow the new spec.
+
 ## 2.45.0
 
 ### Minor Changes
